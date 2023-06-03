@@ -516,7 +516,7 @@ https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="IPTV",LIVE BOLA INDONESIA
 #EXTVLCOPT:http-referrer=
-https://yuk.bio/event1.m3u8|User-Agent=Lavf/56.15.102
+https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="IPTV",LIVE BOLA INTERNATIONAL
 #EXTVLCOPT:http-referrer=
