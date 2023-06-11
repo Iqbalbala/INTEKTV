@@ -13,34 +13,33 @@ https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/indosiar.m3u8
 https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/moji.m3u8
 #EXTINF:0,RCTI
 #EXTGRP:IPTV
-http://starshare.live:8080/live/bdp@997612376/997612376@bdp/151185.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 #EXTINF:0,GTV
 #EXTGRP:IPTV
 http://wanicelife.com:8880/DYJ12M1855/01468289/60483
-#EXTINF:0,NET
-#EXTGRP:IPTV
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/NET.m3u8
 #EXTINF:0,MNCTV
 #EXTGRP:IPTV
 http://starshare.live:8080/live/bdp@997612376/997612376@bdp/151257.m3u8
+#EXTINF:0,INEWS
+#EXTGRP:IPTV
+http://wanicelife.com:8880/DYJ12M1855/01468289/60403
+#EXTINF:0,NET
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/NET.m3u8
+
 #EXTINF:0,Trans 7
 #EXTGRP:IPTV
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
 #EXTINF:0,Trans TV
 #EXTGRP:IPTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
-#EXTINF:0,INEWS
-#EXTGRP:IPTV
-http://wanicelife.com:8880/DYJ12M1855/01468289/60403
 #EXTINF:0,ANTV
 #EXTGRP:IPTV
 https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/antv.m3u8
 #EXTINF:0,RTV
 #EXTGRP:IPTV
 http://210.210.155.35/dr9445/h/h10/index.m3u8
-#EXTINF:0,IDC
-#EXTGRP:IPTV
-https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
+
 #EXTINF:0,JTV
 #EXTGRP:IPTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
@@ -113,6 +112,9 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/SukeTV.m3u8
 #EXTINF:0,BERNAMA
 #EXTGRP:IPTV
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
+#EXTINF:0,Berita RTM
+#EXTGRP:IPTV
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:0,Astro Awani HD
 #EXTGRP:IPTV
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
@@ -131,9 +133,15 @@ http://210.210.155.37/dr9445/h/h02/index.m3u8
 #EXTINF:0,Nikledeon
 #EXTGRP:IPTV
 http://103.167.167.5:8111/play/a00e/index.m3u8
+#EXTINF:0,Nick Jr
+#EXTGRP:IPTV
+http://wanicelife.com:8880/DYJ12M1855/01468289/60462
 #EXTINF:0,Cartoon Network
 #EXTGRP:IPTV
-http://103.167.167.5:8111/play/a00x/index.m3u8
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/cn.m3u8
+#EXTINF:0,Kids TV
+#EXTGRP:IPTV
+http://wanicelife.com:8880/DYJ12M1855/01468289/60454
 #EXTINF:0,myKids
 #EXTGRP:IPTV
 http://210.210.155.37/uq2663/h/h191/index.m3u8
@@ -142,11 +150,11 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0,ZEE BIOSKOP
 #EXTGRP:IPTV
-http://wanicelife.com:8880/DYJ12M1855/01468289/60349
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/zeebioskop.m3u8
 #EXTINF:0,Dunia Sinema
 #EXTGRP:IPTV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-#EXTINF:0,AXN
+#EXTINF:0,MAINTANANCE
 #EXTGRP:IPTV
 http://iptvid.my.id/hmm/Isekai/Nouka/axn.m3u8
 #EXTINF:0,WARNER TV
@@ -206,10 +214,13 @@ http://210.210.155.37/uq2663/h/h18/index.m3u8
 #EXTINF:0,Cinema World
 #EXTGRP:IPTV
 http://210.210.155.37/dr9445/h/h04/index.m3u8
+#EXTINF:0,Hits
+#EXTGRP:IPTV
+http://210.210.155.37/dr9445/h/h37/index.m3u8
 #EXTINF:0,Hits Movie
 #EXTGRP:IPTV
 http://210.210.155.37/dr9445/h/h38/index.m3u8
-#EXTINF:0,ACTION MOVIES
+#EXTINF:0,MAINTANANCE
 #EXTGRP:IPTV
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 #EXTINF:0,TVRI SPORT
@@ -218,6 +229,9 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 #EXTINF:0,MNC SPORTS
 #EXTGRP:IPTV
 http://wanicelife.com:8880/DYJ12M1855/01468289/60351
+#EXTINF:0,SOCCER CHANNEL
+#EXTGRP:IPTV
+http://wanicelife.com:8880/DYJ12M1855/01468289/60471
 #EXTINF:0,RTM SPORT
 #EXTGRP:IPTV
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
@@ -238,8 +252,8 @@ http://210.210.155.37/uq2663/h/h09/index.m3u8
 http://wanicelife.com:8880/DYJ12M1855/01468289/71147
 #EXTINF:0,SPOTV 2
 #EXTGRP:IPTV
-http://iptvid.my.id/hmm/Isekai/Nouka/spotv2.m3u8
-#EXTINF:0,Bein Sport Xtra
+https://beetv.my.id/x/usee-spotv2-gojokkk.m3u8
+#EXTINF:0,MAINTANANCE
 #EXTGRP:IPTV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&amp;deviceMake=samsung&amp;deviceModel=samsung&amp;deviceVersion=unknown&amp;appVersion=unknown&amp;deviceLat=0&amp;deviceLon=0&amp;deviceDNT=%7BTARGETOPT%7D&amp;deviceId=%7BPSID%7D&amp;advertisingId=%7BPSID%7D&amp;us_privacy=1YNY&amp;samsung_app_domain=%7BAPP_DOMAIN%7D&amp;samsung_app_name=%7BAPP_NAME%7D&amp;profileLimit=&amp;profileFloor=&amp;embedPartner=samsung-tvplus
 #EXTINF:0,SONY SPORTS 1
@@ -250,17 +264,17 @@ https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 #EXTINF:0,QURAN TV
 #EXTGRP:IPTV
-https://h1.intechmedia.net/intech/ch14.m3u8
+http://210.210.155.37/qwr9ew/s/s28/index.m3u8
 #EXTINF:0,SAUDI SUNNAH TV
 #EXTGRP:IPTV
 http://210.210.155.37/qwr9ew/s/s27/index.m3u8
 #EXTINF:0,RODJA TV
 #EXTGRP:IPTV
 https://rodjatv.com/rodjatv/live.m3u8
-#EXTINF:0,INSAN TV
+#EXTINF:0,MAINTANANCE
 #EXTGRP:IPTV
 https://h1.intechmedia.net/intech/ch1.m3u8
-#EXTINF:0,SURAU TV
+#EXTINF:0,MAINTANANCE
 #EXTGRP:IPTV
 https://h1.intechmedia.net/intech/ch3.m3u8
 #EXTINF:0,MTV Hits
@@ -275,18 +289,19 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
 #EXTINF:0,IN WILD
 #EXTGRP:IPTV
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,FASHION TV
-#EXTGRP:IPTV
-https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,ADVENTURE SPORTS
-#EXTGRP:IPTV
-https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 #EXTINF:0,Animal Planet
 #EXTGRP:IPTV
 https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/animalplanet.m3u8
 #EXTINF:0,Discovery Channel
 #EXTGRP:IPTV
 https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/discovery.m3u8
+#EXTINF:0,FASHION TV
+#EXTGRP:IPTV
+https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,ADVENTURE SPORTS
+#EXTGRP:IPTV
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+
 #EXTINF:0,HGTV
 #EXTGRP:IPTV
 https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/hgtv.m3u8
