@@ -311,3 +311,6 @@ http://210.210.155.37/x6bnqe/s/s38/index.m3u8
 #EXTINF:0,AFN
 #EXTGRP:IPTV
 https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/afn.m3u8
+#EXTINF:0,Crime Insvestigation
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/ci.m3u8
