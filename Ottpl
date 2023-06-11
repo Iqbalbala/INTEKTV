@@ -1,0 +1,298 @@
+#EXTM3U
+#EXTINF:0,INTEK Vista Indah
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/Live.m3u8
+#EXTINF:0,SCTV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/sctv.m3u8
+#EXTINF:0,INDOSIAR
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/indosiar.m3u8
+#EXTINF:0,Moji
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/moji.m3u8
+#EXTINF:0,RCTI
+#EXTGRP:IPTV
+http://starshare.live:8080/live/bdp@997612376/997612376@bdp/151185.m3u8
+#EXTINF:0,GTV
+#EXTGRP:IPTV
+http://wanicelife.com:8880/DYJ12M1855/01468289/60483
+#EXTINF:0,NET
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/NET.m3u8
+#EXTINF:0,MNCTV
+#EXTGRP:IPTV
+http://starshare.live:8080/live/bdp@997612376/997612376@bdp/151257.m3u8
+#EXTINF:0,Trans 7
+#EXTGRP:IPTV
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
+#EXTINF:0,Trans TV
+#EXTGRP:IPTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
+#EXTINF:0,INEWS
+#EXTGRP:IPTV
+http://wanicelife.com:8880/DYJ12M1855/01468289/60403
+#EXTINF:0,ANTV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/antv.m3u8
+#EXTINF:0,RTV
+#EXTGRP:IPTV
+http://210.210.155.35/dr9445/h/h10/index.m3u8
+#EXTINF:0,IDC
+#EXTGRP:IPTV
+https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
+#EXTINF:0,JTV
+#EXTGRP:IPTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+#EXTINF:0,Nusantara TV
+#EXTGRP:IPTV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:0,tvOne
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/tvone.m3u8
+#EXTINF:0,KOMPAS TV
+#EXTGRP:IPTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:0,CNN Indonesia
+#EXTGRP:IPTV
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
+#EXTINF:0,CNBC Indonesia
+#EXTGRP:IPTV
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:0,METRO TV
+#EXTGRP:IPTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+#EXTINF:0,Metro Global Network
+#EXTGRP:IPTV
+https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
+#EXTINF:0,JAK TV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/jaktv.m3u8
+#EXTINF:0,TVRI
+#EXTGRP:IPTV
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:0,BERITA SATU
+#EXTGRP:IPTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:0,BERITA SATU WORLD
+#EXTGRP:IPTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:0,TANJUPINANG TV
+#EXTGRP:IPTV
+http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
+#EXTINF:0,BANDUNG TV
+#EXTGRP:IPTV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:0,TV1 HD
+#EXTGRP:IPTV
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:0,TV2 HD
+#EXTGRP:IPTV
+http://syok.tv:25461/Anas23/1234/3
+#EXTINF:0,TV 3
+#EXTGRP:IPTV
+http://wanicelife.com:8880/DYJ12M1855/01468289/1732
+#EXTINF:0,TV 6
+#EXTGRP:IPTV
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:0,NTV7
+#EXTGRP:IPTV
+http://wanicelife.com:8880/DYJ12M1855/01468289/1731
+#EXTINF:0,8TV
+#EXTGRP:IPTV
+http://wanicelife.com:8880/DYJ12M1855/01468289/1730
+#EXTINF:0,TV9
+#EXTGRP:IPTV
+http://wanicelife.com:8880/DYJ12M1855/01468289/1729
+#EXTINF:0,OKEY
+#EXTGRP:IPTV
+http://mxu03.wanicelife.com:8880/12mf220025/84196511/71060
+#EXTINF:0,SUKE TV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/SukeTV.m3u8
+#EXTINF:0,BERNAMA
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
+#EXTINF:0,Astro Awani HD
+#EXTGRP:IPTV
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#EXTINF:0,News Asia
+#EXTGRP:IPTV
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:0,NHKWORLD
+#EXTGRP:IPTV
+http://210.210.155.37/uq2663/h/h23/index.m3u8
+#EXTINF:0,Lego Channel
+#EXTGRP:IPTV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:0,Aniplus
+#EXTGRP:IPTV
+http://210.210.155.37/dr9445/h/h02/index.m3u8
+#EXTINF:0,Nikledeon
+#EXTGRP:IPTV
+http://103.167.167.5:8111/play/a00e/index.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:IPTV
+http://103.167.167.5:8111/play/a00x/index.m3u8
+#EXTINF:0,myKids
+#EXTGRP:IPTV
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+#EXTINF:0,ZOOMOO
+#EXTGRP:IPTV
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,ZEE BIOSKOP
+#EXTGRP:IPTV
+http://wanicelife.com:8880/DYJ12M1855/01468289/60349
+#EXTINF:0,Dunia Sinema
+#EXTGRP:IPTV
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:0,AXN
+#EXTGRP:IPTV
+http://iptvid.my.id/hmm/Isekai/Nouka/axn.m3u8
+#EXTINF:0,WARNER TV
+#EXTGRP:IPTV
+http://wanicelife.com:8880/DYJ12M1855/01468289/60292
+#EXTINF:0,ROCK ACTION
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/rockact.m3u8
+#EXTINF:0,ROCK ENTERTAIMENT
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/rockent.m3u8
+#EXTINF:0,THRILL
+#EXTGRP:IPTV
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:0,Celestial Movies Indonesia
+#EXTGRP:IPTV
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:0,Celestial Classic Movies
+#EXTGRP:IPTV
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+#EXTINF:0,TVN Premium Indonesia
+#EXTGRP:IPTV
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+#EXTINF:0,TVN Movies Indonesia
+#EXTGRP:IPTV
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:0,KIX
+#EXTGRP:IPTV
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:0,Sony One
+#EXTGRP:IPTV
+http://wanicelife.com:8880/DYJ12M1855/01468289/71053
+#EXTINF:0,Kplus
+#EXTGRP:IPTV
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:0,ARIRANG
+#EXTGRP:IPTV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0,KBS WORLD
+#EXTGRP:IPTV
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:0,Paramount Network
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/paramount.m3u8
+#EXTINF:0,myCinemaAsia
+#EXTGRP:IPTV
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:0,myCinema
+#EXTGRP:IPTV
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:0,myFamilyChannel
+#EXTGRP:IPTV
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:0,myCinemaEurope
+#EXTGRP:IPTV
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+#EXTINF:0,Cinema World
+#EXTGRP:IPTV
+http://210.210.155.37/dr9445/h/h04/index.m3u8
+#EXTINF:0,Hits Movie
+#EXTGRP:IPTV
+http://210.210.155.37/dr9445/h/h38/index.m3u8
+#EXTINF:0,ACTION MOVIES
+#EXTGRP:IPTV
+http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+#EXTINF:0,TVRI SPORT
+#EXTGRP:IPTV
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:0,MNC SPORTS
+#EXTGRP:IPTV
+http://wanicelife.com:8880/DYJ12M1855/01468289/60351
+#EXTINF:0,RTM SPORT
+#EXTGRP:IPTV
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:0,UNIFI SPORTS 1
+#EXTGRP:IPTV
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:0,FIGHT SPORTS HD
+#EXTGRP:IPTV
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:0,REDBULL TV
+#EXTGRP:IPTV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:0,MOTORVISION
+#EXTGRP:IPTV
+http://210.210.155.37/uq2663/h/h09/index.m3u8
+#EXTINF:0,SPOTV
+#EXTGRP:IPTV
+http://wanicelife.com:8880/DYJ12M1855/01468289/71147
+#EXTINF:0,SPOTV 2
+#EXTGRP:IPTV
+http://iptvid.my.id/hmm/Isekai/Nouka/spotv2.m3u8
+#EXTINF:0,Bein Sport Xtra
+#EXTGRP:IPTV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&amp;deviceMake=samsung&amp;deviceModel=samsung&amp;deviceVersion=unknown&amp;appVersion=unknown&amp;deviceLat=0&amp;deviceLon=0&amp;deviceDNT=%7BTARGETOPT%7D&amp;deviceId=%7BPSID%7D&amp;advertisingId=%7BPSID%7D&amp;us_privacy=1YNY&amp;samsung_app_domain=%7BAPP_DOMAIN%7D&amp;samsung_app_name=%7BAPP_NAME%7D&amp;profileLimit=&amp;profileFloor=&amp;embedPartner=samsung-tvplus
+#EXTINF:0,SONY SPORTS 1
+#EXTGRP:IPTV
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:0,SONY SPORTS 2
+#EXTGRP:IPTV
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:0,QURAN TV
+#EXTGRP:IPTV
+https://h1.intechmedia.net/intech/ch14.m3u8
+#EXTINF:0,SAUDI SUNNAH TV
+#EXTGRP:IPTV
+http://210.210.155.37/qwr9ew/s/s27/index.m3u8
+#EXTINF:0,RODJA TV
+#EXTGRP:IPTV
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:0,INSAN TV
+#EXTGRP:IPTV
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:0,SURAU TV
+#EXTGRP:IPTV
+https://h1.intechmedia.net/intech/ch3.m3u8
+#EXTINF:0,MTV Hits
+#EXTGRP:IPTV
+http://iptv.prosto.tv:7000/ch126/video.m3u8
+#EXTINF:0,SHOWBIZ
+#EXTGRP:IPTV
+http://210.210.155.37/x6bnqe/s/s35/index.m3u8
+#EXTINF:0,THE-KPOP
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
+#EXTINF:0,IN WILD
+#EXTGRP:IPTV
+https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,FASHION TV
+#EXTGRP:IPTV
+https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,ADVENTURE SPORTS
+#EXTGRP:IPTV
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+#EXTINF:0,Animal Planet
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/animalplanet.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/discovery.m3u8
+#EXTINF:0,HGTV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/hgtv.m3u8
+#EXTINF:0,DENS Food Channel
+#EXTGRP:IPTV
+http://210.210.155.37/x6bnqe/s/s38/index.m3u8
+#EXTINF:0,AFN
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/afn.m3u8
