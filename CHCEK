@@ -383,6 +383,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/26569396_ico.png?ts=1685289191" group-title="IPTV",Cinemachi Xtra
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: Etv Bioskop
+http://iptvmedia.live:8080/1c8aff65/bce3124507/298526
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: Etv Bioskop 02
+http://iptvmedia.live:8080/1c8aff65/bce3124507/298527
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: Etv Bioskop 03
+http://iptvmedia.live:8080/1c8aff65/bce3124507/298528
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: Etv Bioskop 04
+http://iptvmedia.live:8080/1c8aff65/bce3124507/298529
+
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529201_ico.png?ts=1660522720" group-title="IPTV",myCinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8|User-Agent=Lavf/56.15.102
 
