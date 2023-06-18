@@ -261,10 +261,10 @@ EXTINF:-1 group-title="IPTV" tvg-logo="https://www.appcreator24.com/srv/imgs/sec
 https://anevia114.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515958_ico.png?ts=1660524537" group-title="IPTV",ROCK ACTION
-http://210.210.155.37/dr9445/h/h15/01.m3u8|User-Agent=Lavf/56.15.102
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/rockact.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497711_ico.png?ts=1660524436" group-title="IPTV",ROCK ENTERTAIMENT
-http://210.210.155.37/dr9445/h/h16/01.m3u8|User-Agent=Lavf/56.15.102
+https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/rockent.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
