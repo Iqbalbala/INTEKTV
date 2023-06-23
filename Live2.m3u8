@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=991124,RESOLUTION=960x540
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/VEUVFaUOFpofk7N0jWe4kfFHwSQsJeLfpuLZcOlP0ocFsSvZ8a235dRrObK7E5KCMvis0GROaeQqFbdF4obW0g/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tw_master_dynamic_16759449288883371340.m3u8?type=replay
