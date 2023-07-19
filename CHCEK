@@ -590,22 +590,21 @@ EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/23210539_ico.png
 https://h1.intechmedia.net/intech/ch1.m3u8
 
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19505876_ico.png?ts=1654806114" group-title="IPTV",SURAU TV
-https://h1.intechmedia.net/intech/ch3.m3u8
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20400813_ico.png?ts=1655398296" group-title="IPTV",POP MUSIK
-https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",Music TV
+https://nxanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20133950_ico.png?ts=1655397863" group-title="IPTV",MALEO
-https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="6245d15062cd1f00070a2338" tvg-chno="45" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936699_ico.png?ts=1659723553" group-title="IPTV",MTV Hits
-http://iptv.prosto.tv:7000/ch126/video.m3u8
+#EXTINF:-1 tvg-id="6245d15062cd1f00070a2338" tvg-chno="45" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936699_ico.png?ts=1659723553" group-title="IPTV",MTV Live
+https://github.com/mimipipi22/nontontv/raw/main/FMX/mtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21935957_ico.png?ts=1660593524" group-title="IPTV",SHOWBIZ
 http://210.210.155.37/x6bnqe/s/s35/index.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22918177_ico.png?ts=1665702875" group-title="IPTV",THE K-POP
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
