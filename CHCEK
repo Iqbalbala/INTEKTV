@@ -107,7 +107,6 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_s
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27418259_ico.png?ts=1689965679" group-title="IPTV",ANTRA TV
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497933_ico.png?ts=1654802059" group-title="IPTV",BERITA SATU
@@ -328,11 +327,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20103412_ico.png?ts=1659656310" group-title="IPTV",CINEMAX
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 https://cdnjkthw.transvision.co.id/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
@@ -340,20 +336,14 @@ https://cdnjkthw.transvision.co.id/live/master/1/4028c6856c3db2cc016cdbfc4a1934b
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20103412_ico.png?ts=1659656310" group-title="IPTV",CINEMAX
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20102452_ico.png?ts=1655457090" group-title="IPTV",HBO Asia
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 https://cdnjkthw.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19956861_ico.png?ts=1655456496" group-title="IPTV",HBO Hits
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 https://cdnjkthw.transvision.co.id/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
@@ -361,11 +351,8 @@ https://cdnjkthw.transvision.co.id/live/master/4/4028c6856c3db2cc016d054fbf67379
 EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19956861_ico.png?ts=1655456496" group-title="IPTV",HBO Hits
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197080
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:0 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22114841_ico.png?ts=1661513399" group-title="IPTV",HBO Family Asia
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 https://cdnjkthw.transvision.co.id/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
@@ -373,11 +360,8 @@ https://cdnjkthw.transvision.co.id/live/master/4/4028c6856c3db2cc016d055927fe37a
 EXTINF:0 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22114841_ico.png?ts=1661513399" group-title="IPTV",HBO Family Asia
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20382405_ico.png?ts=1655456567" group-title="IPTV",HBO Signature Asia
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 https://cdnjkthw.transvision.co.id/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
