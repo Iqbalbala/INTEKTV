@@ -8,7 +8,7 @@ https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080
 https://raw.githubusercontent.com/thefirefox12537/streams/master/esceteve_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19539807_ico.png?ts=1654801314" group-title="IPTV",INDOSIAR
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20530939_ico.png?ts=1660771026" group-title="IPTV",Moji
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
@@ -200,16 +200,18 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/id/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/26755241_ico.png?ts=1686214366" group-title="IPTV",Al Jazeera English
-https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/aljzrint.m3u8
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/26755391_ico.png?ts=1686215314" group-title="IPTV",BBC NEWS
-https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/bbc.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27441292_ico.png?ts=1690094792" group-title="IPTV",CNN INTERNATIONAL
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/63831a0c85fb46b5bf3b9fbd35a2331b.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27441358_ico.png?ts=1690095495" group-title="IPTV",Blommberg
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529126_ico.png?ts=1659655292" group-title="IPTV",Animax
 https://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -637,9 +639,6 @@ https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957549_ico.png?ts=1655327788" group-title="IPTV",B ADVENTURE
 http://livestream.biznetvideo.net:80/biznet_adventure/smil:adventure.smil/chunklist_w1684912150_b5256000_slen.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
-
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19538941_ico.png?ts=1655327599" group-title="IPTV",ADVENTURE SPORTS
-https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
