@@ -8,8 +8,7 @@ https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080
 https://raw.githubusercontent.com/thefirefox12537/streams/master/esceteve_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19539807_ico.png?ts=1654801314" group-title="IPTV",INDOSIAR
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/session/25be4a10-297b-11ee-9619-a4fba6df0896/qwr9ew/s/s04/02.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20530939_ico.png?ts=1660771026" group-title="IPTV",Moji
 #EXTVLCOPT:http-user-agent=Lavf/56.15.102
@@ -200,6 +199,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19859009_ico.png?ts=1654810195" group-title="IPTV",NHK World Japan
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/id/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510438_ico.png?ts=1654805457" group-title="IPTV",ARIRANG WORLD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/26755241_ico.png?ts=1686214366" group-title="IPTV",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 
@@ -323,9 +325,6 @@ https://anevia114.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19522353_ico.png?ts=1660523141" group-title="IPTV",Kplus
 http://210.210.155.37/session/05fad7e2-2977-11ee-bbf6-837eba0c9003/uq2663/h/h08/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510438_ico.png?ts=1654805457" group-title="IPTV",ARIRANG WORLD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529355_ico.png?ts=1654728861" group-title="IPTV",KBS WORLD
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
@@ -385,7 +384,7 @@ https://anevia114.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 https://anevia114.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/24042679_ico.png?ts=1690045148" group-title="IPTV",PARAMOUNT
-https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/paramount.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
