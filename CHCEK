@@ -200,10 +200,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/id/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/26755241_ico.png?ts=1686214366" group-title="IPTV",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27441292_ico.png?ts=1690094792" group-title="IPTV",CNN INTERNATIONAL
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/63831a0c85fb46b5bf3b9fbd35a2331b.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27441358_ico.png?ts=1690095495" group-title="IPTV",Blommberg
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
@@ -582,7 +582,7 @@ https://rodjatv.com/rodjatv/live.m3u8
 https://h1.intechmedia.net/intech/ch1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19505876_ico.png?ts=1654806114" group-title="IPTV",SURAU TV
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
 https://h1.intechmedia.net/intech/ch3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
