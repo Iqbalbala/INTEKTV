@@ -598,8 +598,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21935957_ico.png?ts=1660593524" group-title="IPTV",SHOWBIZ
 http://210.210.155.37/x6bnqe/s/s35/index.m3u8|User-Agent=Lavf/56.15.102
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22918177_ico.png?ts=1665702875" group-title="IPTV",THE K-POP
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27460739_ico.png?ts=1690219238" group-title="IPTV",NAGASWARA DANGDUT
+https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
 
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
