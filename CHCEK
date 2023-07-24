@@ -478,12 +478,10 @@ http://210.210.155.37/uq2663/h/h09/01.m3u8|User-Agent=Lavf/56.15.102
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20274240_ico.png?ts=1654805804" group-title="IPTV",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
 
 EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="IPTV",Astro SuperSport
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
@@ -567,7 +565,8 @@ https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live2.m3u8
 https://nxanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515939_ico.png?ts=1657341923" group-title="IPTV",SAUDI SUNNAH TV
-http://210.210.155.37/qwr9ew/s/s27/index.m3u8|User-Agent=Lavf/56.15.102
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+https://h1.intechmedia.net/intech/ch13.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -575,7 +574,8 @@ http://210.210.155.37/qwr9ew/s/s27/index.m3u8|User-Agent=Lavf/56.15.102
 https://anevia114.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19505865_ico.png?ts=1654806055" group-title="IPTV",RODJA TV
-https://rodjatv.com/rodjatv/live.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+https://h1.intechmedia.net/intech/ch26.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/23210539_ico.png?ts=1667195045" group-title="IPTV",INSAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
