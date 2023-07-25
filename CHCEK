@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/thefirefox12537/streams/master/esceteve_2.m3u8
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19539807_ico.png?ts=1654801314" group-title="IPTV",INDOSIAR
-#EXTVLCOPT:Access-Control-Allow-Origin=https://google.com
+#EXTVLCOPT:http-Access-Control-Allow-Origin=https://google.com
 https://res.host.iptvfreemium.com/gdp/vidio/205.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20530939_ico.png?ts=1660771026" group-title="IPTV",Moji
