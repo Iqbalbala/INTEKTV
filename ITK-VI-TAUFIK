@@ -75,8 +75,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19554476_ico.png?ts=1654802291" group-title="IPTV",JTV
-http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/02.m3u8
-http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
+https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20921952_ico.png?ts=1655150701" group-title="IPTV",Nusantara
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
@@ -104,7 +103,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19185097_ico.png?ts=1654729099" group-title="IPTV",TVRI Nasional
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27418259_ico.png?ts=1689965679" group-title="IPTV",ANTRA TV
 https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
@@ -126,6 +125,9 @@ http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19556287_ico.png?ts=1654802241" group-title="IPTV",BANDUNG TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27776962_ico.png?ts=1692211137" group-title="IPTV",JPM TV
+https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19758812_ico.png?ts=1654802327" group-title="IPTV",TV1 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
@@ -406,25 +408,35 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/26569396_ico.png?ts=1685289191" group-title="IPTV",Cinemachi Xtra
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529201_ico.png?ts=1660522720" group-title="IPTV",myCinema
-http://210.210.155.37/uq2663/h/h192/index.m3u8|User-Agent=Lavf/56.15.102
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529201_ico.png?ts=1660522720" group-title="IPTV",My Cinema
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529185_ico.png?ts=1660522783" group-title="IPTV",myCinemaAsia
-http://210.210.155.37/uq2663/h/h193/index.m3u8|User-Agent=Lavf/56.15.102
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529185_ico.png?ts=1660522783" group-title="IPTV",My Cinema Asia
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529189_ico.png?ts=1660522835" group-title="IPTV",myFamilyChannel
-http://210.210.155.37/uq2663/h/h194/index.m3u8|User-Agent=Lavf/56.15.102
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529189_ico.png?ts=1660522835" group-title="IPTV",My Family
+https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529197_ico.png?ts=1660522666" group-title="IPTV",myCinemaEurope
-http://210.210.155.37/uq2663/h/h18/01.m3u8|User-Agent=Lavf/56.15.102
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529197_ico.png?ts=1660522666" group-title="IPTV",myCinemaEurope
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529178_ico.png?ts=1660693249" group-title="IPTV",Cinema World
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/dr9445/h/h04/index.m3u8
+https://nxanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515947_ico.png?ts=1660693686" group-title="IPTV",Hits 
-#EXTVLCOPT:http-user-agent=Lavf/56.15.102
-http://210.210.155.37/dr9445/h/h37/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://nxanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -435,7 +447,7 @@ EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498270_ico.png?ts=1654800910" group-title="IPTV",TVRI SPORT
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream2/streamPlaylist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -459,7 +471,7 @@ https://anevia114.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19762554_ico.png?ts=1654805591" group-title="IPTV",RTM SPORT
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/.
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21528780_ico.png?ts=1658211297" group-title="IPTV",UNIFI SPORTS 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -486,7 +498,7 @@ https://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="IPTV",Astro SuperSport
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=android-R+
-https://webudi.webtv1.lol/lb/premium123/index.m3u8
+https://webudit.cdndac.lol/lb/premium123/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
 https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
@@ -495,7 +507,7 @@ https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/6
 EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115" group-title="IPTV",Astro SuperSport 2
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=android-R+
-https://webudi.webtv1.lol/lb/premium124/index.m3u8
+https://webudit.cdndac.lol/lb/premium124/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
 https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
@@ -504,7 +516,7 @@ https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/2
 EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1660430151" group-title="IPTV",Astro SuperSport 3
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=android-R+
-https://webudi.webtv1.lol/lb/premium125/index.m3u8
+https://webudit.cdndac.lol/lb/premium125/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
 https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default.mpd
@@ -512,7 +524,7 @@ https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/2
 EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995059_ico.png?ts=1660430191" group-title="IPTV",Astro SuperSport 4
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 #EXTVLCOPT:http-user-agent=android-R+
-https://webudi.webtv1.lol/lb/premium126/index.m3u8
+https://webudit.cdndac.lol/lb/premium126/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
 https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
