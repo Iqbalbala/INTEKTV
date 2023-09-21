@@ -505,7 +505,7 @@ https://1.yurend.xyz/dash-wv/linear/2104/default_primary.mpd
 https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
 
 
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1660430151" group-title="IPTV",Astro SuperSport 3
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1660430151" group-title="IPTV",Astro SuperSport 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
