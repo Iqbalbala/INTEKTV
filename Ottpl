@@ -11,18 +11,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/02.m3u8
 #EXTINF:0,Moji
 #EXTGRP:IPTV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
-#EXTINF:0,RCTI
-#EXTGRP:IPTV
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157591
-#EXTINF:0,GTV
-#EXTGRP:IPTV
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157578
-#EXTINF:0,INEWS
-#EXTGRP:IPTV
-http://muka03.wanicelife.com:8880/6mm180029/67113429/60347
-#EXTINF:0,MNCTV
-#EXTGRP:IPTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/mnctv.m3u8
+
 #EXTINF:0,NET
 #EXTGRP:IPTV
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/80292
@@ -79,7 +68,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:0,TV1 HD
 #EXTGRP:IPTV
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:0,TV2 HD
 #EXTGRP:IPTV
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
@@ -113,27 +102,28 @@ http://210.210.155.37/uq2663/h/h23/index.m3u8
 #EXTINF:0,Animax
 #EXTGRP:IPTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/02.m3u8
-#EXTINF:0,Mentari TV
+#EXTINF:0,Horre
 #EXTGRP:IPTV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/02.m3u8
 #EXTINF:0,Nikledeon
 #EXTGRP:IPTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/02.m3u8
-#EXTINF:0,Nick Jr
-#EXTGRP:IPTV
-http://muka03.wanicelife.com:8880/6mm180029/67113429/71086
 #EXTINF:0,Cartoon Network
 #EXTGRP:IPTV
 http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u8
-#EXTINF:0,Kids TV
+#EXTINF:0,Cartoonito
 #EXTGRP:IPTV
-http://muka03.wanicelife.com:8880/6mm180029/67113429/60473
-#EXTINF:0,myKids
-#EXTGRP:IPTV
-http://210.210.155.37/uq2663/h/h191/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/02.m3u8
 #EXTINF:0,ZOOMOO
 #EXTGRP:IPTV
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:0,CITRA BIOSKOP
+#EXTGRP:IPTV
+http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
+#EXTINF:0,CITRA DRAMA
+#EXTGRP:IPTV
+http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
 #EXTINF:0,ZEE BIOSKOP
 #EXTGRP:IPTV
 http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u8
@@ -143,9 +133,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:0,AXN
 #EXTGRP:IPTV
 http://edge.linknetott.swiftserve.com/channelgroup5/cg543production/ch332/02.m3u8
-#EXTINF:0,WARNER TV
-#EXTGRP:IPTV
-http://muka03.wanicelife.com:8880/6mm180029/67113429/71094
 #EXTINF:0,ROCK ACTION
 #EXTGRP:IPTV
 http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
@@ -155,66 +142,43 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg257production/ch335/02.m3u
 #EXTINF:0,THRILL
 #EXTGRP:IPTV
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
-#EXTINF:0,Celestial Classic Movies
+#EXTINF:0,TVN 
 #EXTGRP:IPTV
-http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
 #EXTINF:0,TVN Movies
 #EXTGRP:IPTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg338production/ch343/02.m3u8
 #EXTINF:0,KIX
 #EXTGRP:IPTV
-http://210.210.155.37/dr9445/h/h07/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg256production/ch336/02.m3u8
 #EXTINF:0,Sony One
 #EXTGRP:IPTV
 http://edge.linknetott.swiftserve.com/channelgroup5/cg521production/ch338/02.m3u8
-#EXTINF:0,Kplus
-#EXTGRP:IPTV
-http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:0,ARIRANG
 #EXTGRP:IPTV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:0,KBS WORLD
 #EXTGRP:IPTV
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:0,GEM
+#EXTGRP:IPTV
+http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 #EXTINF:0,Paramount Network
 #EXTGRP:IPTV
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
-#EXTINF:0,HBO
-#EXTGRP:IPTV
-http://iptvtree.net:8080/adastream/J2DVrYWnpTu3Sk4W/197972
-#EXTINF:0,HBO HITS
-#EXTGRP:IPTV
-http://iptvtree.net:8080/adastream/J2DVrYWnpTu3Sk4W/196480
-#EXTINF:0,GALAXY
-#EXTGRP:IPTV
-http://iptvtree.net:8080/adastream/J2DVrYWnpTu3Sk4W/264773
-#EXTINF:0,Cinema World
-#EXTGRP:IPTV
-http://210.210.155.37/dr9445/h/h04/index.m3u8
 #EXTINF:0,Hits
 #EXTGRP:IPTV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg433production/ch326/02.m3u8
 #EXTINF:0,Hits Movie
 #EXTGRP:IPTV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg432production/ch324/02.m3u8
+
 #EXTINF:0,TVRI SPORT
 #EXTGRP:IPTV
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream2/streamPlaylist.m3u8
-#EXTINF:0,Sport Stars
-#EXTGRP:IPTV
-http://iptvtree.net:8080/adastream/J2DVrYWnpTu3Sk4W/157589
-#EXTINF:0,Sport Stars 2
-#EXTGRP:IPTV
-http://muka03.wanicelife.com:8880/6mm180029/67113429/60286
-#EXTINF:0,Sport Stars 3
-#EXTGRP:IPTV
-http://muka03.wanicelife.com:8880/6mm180029/67113429/60411
 #EXTINF:0,UNIFI SPORTS 1
 #EXTGRP:IPTV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:0,FIGHT SPORTS HD
-#EXTGRP:IPTV
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:0,RTM SPORT
 #EXTGRP:IPTV
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
