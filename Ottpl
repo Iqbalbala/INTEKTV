@@ -31,10 +31,10 @@ http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/165054
 http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/157591
 #EXTINF:0,INEWS
 #EXTGRP:IPTV
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/157591
+http://muka03.wanicelife.com:8880/24us101601/gt6e7wd2/60347
 #EXTINF:0,ANTV
 #EXTGRP:IPTV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/02.m3u8
+http://muka03.wanicelife.com:8880/24us101601/gt6e7wd2/60404
 #EXTINF:0,RTV
 #EXTGRP:IPTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
@@ -85,16 +85,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:0,TV 3
 #EXTGRP:IPTV
-http://muka03.wanicelife.com:8880/6mm180029/67113429/1732
+http://muka03.wanicelife.com:8880/24us101601/gt6e7wd2/1732
 #EXTINF:0,TV 6
 #EXTGRP:IPTV
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:0,NTV7
 #EXTGRP:IPTV
-http://muka03.wanicelife.com:8880/6mm180029/67113429/1731
+http://muka03.wanicelife.com:8880/24us101601/gt6e7wd2/1731
 #EXTINF:0,TV9
 #EXTGRP:IPTV
-http://muka03.wanicelife.com:8880/6mm180029/67113429/1729
+http://muka03.wanicelife.com:8880/24us101601/gt6e7wd2/1730
+#EXTINF:0,TV9
+#EXTGRP:IPTV
+http://muka03.wanicelife.com:8880/24us101601/gt6e7wd2/1729
 #EXTINF:0,OKEY
 #EXTGRP:IPTV
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
@@ -119,6 +122,9 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/02.m3u
 #EXTINF:0,Nikledeon
 #EXTGRP:IPTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/02.m3u8
+#EXTINF:0,Nick Junior
+#EXTGRP:IPTV
+http://muka03.wanicelife.com:8880/24us101601/gt6e7wd2/60479
 #EXTINF:0,Cartoon Network
 #EXTGRP:IPTV
 http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u8
@@ -153,6 +159,12 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg257production/ch335/02.m3u
 #EXTINF:0,THRILL
 #EXTGRP:IPTV
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:0,CELESTIAL MOVIES
+#EXTGRP:IPTV
+http://muka03.wanicelife.com:8880/24us101601/gt6e7wd2/60374
+#EXTINF:0,CCM
+#EXTGRP:IPTV
+http://muka03.wanicelife.com:8880/24us101601/gt6e7wd2/60375
 #EXTINF:0,TVN 
 #EXTGRP:IPTV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
@@ -177,6 +189,9 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3
 #EXTINF:0,Paramount Network
 #EXTGRP:IPTV
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
+#EXTINF:0,Cinema World
+#EXTGRP:IPTV
+http://muka03.wanicelife.com:8880/24us101601/gt6e7wd2/60279
 #EXTINF:0,Hits
 #EXTGRP:IPTV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg433production/ch326/02.m3u8
