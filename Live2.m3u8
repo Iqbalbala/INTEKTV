@@ -1,4 +1,3 @@
 #EXTM3U
 #EXTVLCOPT:http-referrer=https://tv247.us/
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=991124,RESOLUTION=960x540
-https://live.tv247us.com/tv247/usanw.m3u8
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/SntUID_AhgmvM2dh6RuYD1yJewigR24U7Zv3bfa3_eNA9imY-xbxZld-0Lm9taFS1T0ndfS98J7YIpFUgkuVlQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
