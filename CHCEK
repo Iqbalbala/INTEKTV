@@ -551,6 +551,10 @@ KODIPROP:inputstream.adaptive.license_type=clearkey
 KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20804770_ico.png?ts=1696090565" group-title="IPTV",USA NETWORK
+#EXTVLCOPT:http-referrer=https://tv247.us/
+https://live.tv247us.com/tv247/usanw.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="IPTV",LIVE 1
 #EXTVLCOPT:http-referrer=
 https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live.m3u8
