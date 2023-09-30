@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=991124,RESOLUTION=960x540
-https://live.tv247us.com/tv247/usanw.m3u8
+https://live.tv247us.com/tv247/usanw.m3u8|referer=https://tv247.us/all-channels/
