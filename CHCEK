@@ -382,6 +382,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/24042679_ico.png?ts=1690045148" group-title="IPTV",PARAMOUNT
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28431823_ico.png?ts=1696157724" group-title="IPTV",SONY PIX HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/26569364_ico.png?ts=1685288566" group-title="IPTV",Cinemachi
@@ -436,9 +439,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20172029_ico.png?ts=1655454924" group-title="IPTV",HITS Movies
 https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851" group-title="IPTV",ACTION MOVIES
-http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498270_ico.png?ts=1654800910" group-title="IPTV",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream2/streamPlaylist.m3u8
