@@ -136,7 +136,7 @@ KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash
 https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19758847_ico.png?ts=1654802353" group-title="IPTV",TV2 HD
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 
