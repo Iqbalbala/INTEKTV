@@ -707,27 +707,4 @@ https://1.yurend.xyz/dash-wv/linear/500/default_primary.mpd
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19935741_ico.png?ts=1662015471" group-title="IPTV",DENS Food Channel
 http://210.210.155.37/x6bnqe/s/s50/live.m3u8|User-Agent=Lavf/56.15.102
 
----------------------LIVE EVENT----------------------------------LIVE EVENT----------------------------------
-
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="IPTV",LIVE EVENT 1
-#EXTVLCOPT:http-referrer=https://id5.woo0o0ooo.xyz/
-https://yuk.bio/event1.m3u8|User-Agent=Lavf/56.15.102
-
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="IPTV",LIVE EVENT 2
-https://yuk.bio/event2.mpd
-
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="IPTV",LIVE EVENT 3
-https://yuk.bio/vevent3.m3u8
-
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="IPTV",LIVE EVENT 4
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-https://yuk.bio/event4.m3u8
-
-
-
-
-
-
-EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" group-title="IPTV",U16 INDONESIA FINAL
-EXTVLCOPT:http-referrer=https://castfree.me/
-https://s6.merizaat.com:999/hls/Nobarsport.m3u8?md5=iumAvw6fyNSzicAihJ91qw&expires=1660316828
+#EXTM3U billed-msg=" INTEK IPTV "
