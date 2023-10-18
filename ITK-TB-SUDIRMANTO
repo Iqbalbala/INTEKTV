@@ -279,6 +279,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20103484_ico.png?ts=1661781746",Warner TV Southeast Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 https://1.yurend.xyz/dash-wv/linear/2605/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515958_ico.png?ts=1660524537" group-title="IPTV",ROCK ACTION
@@ -334,34 +335,35 @@ http://210.210.155.37/session/05fad7e2-2977-11ee-bbf6-837eba0c9003/uq2663/h/h08/
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529355_ico.png?ts=1654728861" group-title="IPTV",KBS WORLD
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20103412_ico.png?ts=1659656310" group-title="IPTV",CINEMAX ASIA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dcubmxudin.vision-e5a.workers.dev/
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20103412_ico.png?ts=1659656310" group-title="IPTV",CINEMAX HD
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://dcubmxudin.vision-e5a.workers.dev/
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20102452_ico.png?ts=1655457090" group-title="IPTV",HBO Asia
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://dcubmxudin.vision-e5a.workers.dev/
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19956861_ico.png?ts=1655456496" group-title="IPTV",HBO Hits
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dcubmxudin.vision-e5a.workers.dev/
 #EXTINF:0 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22114841_ico.png?ts=1661513399" group-title="IPTV",HBO Family Asia
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://dcubmxudin.vision-e5a.workers.dev/
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20382405_ico.png?ts=1655456567" group-title="IPTV",HBO Signature Asia
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
-EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28435321_ico.png?ts=1696180539" group-title="IPTV",SHOWCASE
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28435321_ico.png?ts=1696180539" group-title="IPTV",SHOWCASE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 https://1.yurend.xyz/dash-wv/linear/5054/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -508,17 +510,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600262_ico.png?ts=1655148798" group-title="IPTV",BEIN SPORTS 1 ASIA
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600262_ico.png?ts=1655148798" group-title="IPTV",BEIN SPORTS 1 ASIA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 https://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
-EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1660770496" group-title="IPTV",BEIN SPORTS 2 ASIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1660770496" group-title="IPTV",BEIN SPORTS 2 ASIA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 https://1.yurend.xyz/dash-wv/linear/5066/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
-EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1660770496" group-title="IPTV",BEIN SPORTS 3 ASIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1660770496" group-title="IPTV",BEIN SPORTS 3 ASIA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 https://1.yurend.xyz/dash-wv/linear/2705/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
