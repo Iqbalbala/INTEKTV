@@ -5,11 +5,15 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/Live.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4#.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256280_ico.png?ts=1654801277" group-title="IPTV",SCTV
-http://013tv.com:8080/9f922928/W9pyRzjgXsNAUw4w/162141
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=spy-ber/1.0
+https://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8?app_type=web&userid=lite&chname=SCTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19539807_ico.png?ts=1654801314" group-title="IPTV",INDOSIAR
-http://013tv.com:8080/9f922928/W9pyRzjgXsNAUw4w/162138
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=spy-ber/1.0
+https://op-group1-swiftservehd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=indosiar
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20530939_ico.png?ts=1660771026" group-title="IPTV",Moji
@@ -33,7 +37,6 @@ https://mangga-live-cdn.mncnow.id/live/eds/NetTV-HD
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256337_ico.png?ts=1654728969" group-title="IPTV",NET TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=spy-ber/1.0
-https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET
 https://op-group1-swiftservesd-1.dens.tv/h/h06/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
