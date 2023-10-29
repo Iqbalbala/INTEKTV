@@ -1,5 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=991124,RESOLUTION=960x540
-#EXTVLCOPT:http-referrer=https://www.sportshub.to
-#EXTVCOPT:http-user-agent=spy-ber/1.0
 https://s3.alnorum.xyz/hls/abr-stream-1/index.m3u8
