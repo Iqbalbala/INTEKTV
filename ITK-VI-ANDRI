@@ -36,12 +36,12 @@ https://mangga-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 https://mangga-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256337_ico.png?ts=1654728969" group-title="IPTV",NET TV
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/35jn5utj
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256337_ico.png?ts=1654728969" group-title="IPTV",NET TV
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256337_ico.png?ts=1654728969" group-title="IPTV",NET TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20256337_ico.png?ts=1654728969" group-title="IPTV",NET TV
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://mantul.biz.id:443/ekos/748382/174
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -344,37 +344,28 @@ http://210.210.155.37/session/05fad7e2-2977-11ee-bbf6-837eba0c9003/uq2663/h/h08/
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/35jn5utj
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20103412_ico.png?ts=1659656310" group-title="IPTV",CINEMAX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-https://mantul.biz.id:443/ekos/748382/1029
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/35jn5utj
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20102452_ico.png?ts=1655457090" group-title="IPTV",HBO Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-https://mantul.biz.id:443/ekos/748382/1
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/35jn5utj
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19956861_ico.png?ts=1655456496" group-title="IPTV",HBO Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-https://mantul.biz.id:443/ekos/748382/3
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/35jn5utj
 #EXTINF:0 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22114841_ico.png?ts=1661513399" group-title="IPTV",HBO Family Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
-https://mantul.biz.id:443/ekos/748382/5
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/35jn5utj
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20382405_ico.png?ts=1655456567" group-title="IPTV",HBO Signature Asia
-https://mantul.biz.id:443/ekos/748382/1019
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -611,12 +602,10 @@ http://103.166.27.2:8112/play/a016
 
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU", PIALA DUNIA 2 U17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://ktpremium.com:443/partyplay999/bHIzQ3rxam/73617
+http://muka03.wanicelife.com:8880/6mmk190037/21266132/1722
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU", PIALA DUNIA 3 U17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://hqth.me/EventStay1_ts
+http://muka03.wanicelife.com:8880/6mmk190037/21266132/1721
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
