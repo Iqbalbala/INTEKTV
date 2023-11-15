@@ -174,8 +174,9 @@ http://ktpremium.com:2095/partyplay999/bHIzQ3rxam/25811
 http://ktpremium.com:2095/partyplay999/bHIzQ3rxam/25812
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529478_ico.png?ts=1654804931" group-title="IPTV",TV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://ktpremium.com:2095/partyplay999/bHIzQ3rxam/25813
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19762444_ico.png?ts=1654812440" group-title="IPTV",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
