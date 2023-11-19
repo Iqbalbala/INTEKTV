@@ -38,10 +38,10 @@ https://mantul.biz.id:443/ekos/748382/215.m3u8
 http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Rcti
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20690321_ico.png?ts=1654801175" group-title="IPTV",GTV
-https://mantul.biz.id:443/ekos/748382/192.m3u8
+http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Gtv
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20052989_ico.png?ts=1654801219" group-title="IPTV",MNC TV
-https://mantul.biz.id:443/ekos/748382/191.m3u8
+http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Mnctv
 
 EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20015768_ico.png?ts=1654989306" group-title="IPTV",iNews
 https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
