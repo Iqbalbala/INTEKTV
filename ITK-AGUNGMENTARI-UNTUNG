@@ -35,13 +35,13 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index
 https://mantul.biz.id:443/ekos/748382/215.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20053038_ico.png?ts=1654801099" group-title="IPTV",RCTI
-http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Rcti
+https://maper.info/RCTI_shareext_ts
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20690321_ico.png?ts=1654801175" group-title="IPTV",GTV
-http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Gtv
+https://maper.info/GTV_shareext_ts
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20052989_ico.png?ts=1654801219" group-title="IPTV",MNC TV
-http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Mnctv
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/40
 
 EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20015768_ico.png?ts=1654989306" group-title="IPTV",iNews
 https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
