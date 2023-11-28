@@ -569,11 +569,10 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
-EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1660770496" group-title="IPTV",BEIN SPORTS 3 ASIA
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
-https://1.yurend.xyz/dash-wv/linear/2705/default_primary.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1660770496" group-title="IPTV",BEIN SPORTS 3 TH
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
 EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22213044_ico.png?ts=1678991400" group-title="IPTV",Champions TV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
