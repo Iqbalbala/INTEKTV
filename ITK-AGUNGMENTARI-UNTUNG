@@ -41,7 +41,7 @@ https://maper.info/RCTI_shareext_ts
 https://maper.info/GTV_shareext_ts
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20052989_ico.png?ts=1654801219" group-title="IPTV",MNC TV
-http://82.115.12.122:8080/live/play/Vkd4ek9WaE9URGg0TkV0d1pUTmFORWgxZUZCWE9VOXRWMjlXWWpNcmRrWm9WR05PY2toUFkybEtUVDA9/683098
+http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=683098&extension=ts&shareext@MNCTV
 
 EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20015768_ico.png?ts=1654989306" group-title="IPTV",iNews
 https://mangga-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
