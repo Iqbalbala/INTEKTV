@@ -165,11 +165,11 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19760502_ico.png?ts=1654807109" group-title="IPTV",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529491_ico.png?ts=1654807307" group-title="IPTV",NTV7
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529491_ico.png?ts=1654807307" group-title="IPTV",NTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://abc123.digital:8080/lisettelands@gmail.com/XBuG9UBsX2/573300
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19746615_ico.png?ts=1654807358" group-title="IPTV",8TV
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19746615_ico.png?ts=1654807358" group-title="IPTV",8TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://abc123.digital:8080/lisettelands@gmail.com/XBuG9UBsX2/573174
 
@@ -184,25 +184,25 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5072
 https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
-#EXTINF:-1 group-title="IPTV" tvg-id="" tvg-chno="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21609958_ico.png?ts=1658689410",Channel Suria
-https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNWWQ5dnlxcXc2Ymo4d3NydmlnUUNZZTIxYm0tczRHd0puVlNfbm1HWG9hYjdQRkFmN3J0ZnNhNW5aSHI0ZThqTFNZRlJxbWxZN195a2NBeklzTmxScUYxM0prMDcxNXhnaUpKZG5XQm5CRGZKRVZzODZ0cG9TRGtiOFZtbWlxaXRRSlN0TlE1dVZUaktmVUIxWjFDSzdxTnVfbGkxcm03X0dTbmFLT2cxb2MzaWRWbUd6bW1saVhzaHcwbnJUbnpFNnR2eWxxOTdvSWhXUUdYUzFvYlpBVk04cVdrc3dlNkM0YndGU05nUWx3eFZCOXl5LWliMXYycUk1TlhvX29NVFJ3NEVOelV3SEM1YVdUcTlVOEphVjJoQ3VPaFd6NnkweE9lb2dsQ0xxT2doSHpQRDVPWFBfVnB3RzQ5c0FMVWc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk1ZZDl2eXFxdzZiajh3c3J2aWdRQ1llMjFibS1zNEd3Sm5WU19ubUdYb2FiN1BGQWY3cnRmc2E1blpIcjRlOGpMU1lGUnFtbFk3X3lrY0F6SXNObFJxRjEzSmswNzE1eGdpSkpkbldCbkJEZkpFVnM4NnRwb1NEa2I4Vm1taXFpdFFKU3ROUTV1VlRqS2ZVQjFaMUNLN3FOdV9saTFybTdfR1NuYUtPZzFvYzNpZFZtR3ptbWxpWHNodzBuclRuekU2dHZ5bHE5N29JaFdRR1hTMW9iWkFWTThxV2tzd2U2QzRid0ZTTmdRbHd4VkI5eXktaWIxdjJxSTVOWG9fb01UUnc0RU56VXdIQzVhV1RxOVU4SmFWMmhDdU9oV3o2eTB4T2VvZ2xDTHFPZ2hIelBENU9YUF9WcHdHNDlzQUxVZz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=KpQbSiIqvnKyDcKsViRV2uneJ8Q%3d
+#EXTINF:-1 group-title="IPTV" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21542774_ico.png?ts=1658287348",Channel 5
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
-#EXTINF:-1 tvg-id="Channel5" group-title="IPTV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21542774_ico.png?ts=1658287348",Channel 5 HD
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZET01jWDIxZ2JreXJSYXc1czFKNUNablpEYm1STXR0S1ZxR1RYeUgwVkhWblZCNTN0ZWxlZEd0Ukc4Q2Fzck1RUEtzU2hjVGFxX1ZmNmhNVWplM08xVHBkbFJnYTBXazNrT01CZG80X0tUbS1GQTFsd1JrcXBNUGdjZmNhZWFxZkJIcHpndExSZzZseXVYVmJ0anM2YWVLSFZBbWRKYTJsc2NQc0pYTVhON0drRFFJMUczbnZjTjAycGhGOEVQNVNTVEVVRy1WS05mbXYxSVVaUDNEV0R6QzU3VmUzYmdjVE9vT2hVV0NpTS01UDFteGVKZVlwb0FIQkVERVZUMk1tVERoMHVycHRaTXR2WTZWb3R3Vm5OcVZibDNKVkZUYWdIeTd6TmtpZ3BIOVV2d3ZVTzFhQkt2ei1xSnJzYWlEbUE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMjQiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoOF9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkRPTWNYMjFnYmt5clJhdzVzMUo1Q1puWkRibVJNdHRLVnFHVFh5SDBWSFZuVkI1M3RlbGVkR3RSRzhDYXNyTVFQS3NTaGNUYXFfVmY2aE1VamUzTzFUcGRsUmdhMFdrM2tPTUJkbzRfS1RtLUZBMWx3UmtxcE1QZ2NmY2FlYXFmQkhwemd0TFJnNmx5dVhWYnRqczZhZUtIVkFtZEphMmxzY1BzSlhNWE43R2tEUUkxRzNudmNOMDJwaEY4RVA1U1NURVVHLVZLTmZtdjFJVVpQM0RXRHpDNTdWZTNiZ2NUT29PaFVXQ2lNLTVQMW14ZUplWXBvQUhCRURFVlQyTW1URGgwdXJwdFpNdHZZNlZvdHdWbk5xVmJsM0pWRlRhZ0h5N3pOa2lncEg5VXZ3dlVPMWFCS3Z6LXFKcnNhaURtQT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=G%2bfradGueX%2fuZkwrgVXqfHMrP24%3d
+#EXTINF:-1 group-title="IPTV" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21542779_ico.png?ts=1658287413",Channel 8
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2448fc561b0c4220a81f1008971d3088&key=f48eb6753f3d1774da682970c93cf260
-#EXTINF:-1 tvg-id="Channel8" group-title="IPTV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21542779_ico.png?ts=1658287413",Channel 8 HD
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZKUTlwSi1NbVJ0UTExemZuVHh3UUJHWFBGX1YxbkNsVkNJcURpNjdPeWxXdHJxc3NOQ193UjA1NmI3YVZYNGpnWEdnTHZoRWI5VmF2WnJRWmxJMFo2eFZWVmJDOWgtM0ZHMnZCUXVrc0JVWjRBdlBkZUFvWk1SdnZMSmU2TlIyQll5OVo2Qlpwb0wxVUs1X1VpYThmSkNMV2h3dFlBN1ZZRDRKUEZQU2tjOGFfb2l1dnVEU3ZrYVhNbm03Mm9vd1lXUzYwbThJSmUzWDV4YXZIbEczMGxxdm91WWJ2S0wxZHlXZUNZQS1aMmJYSDQyQ3RIRVA4bGZPdXJwZkU4aWNOMlA2eTUzZVhQdkZzOXRiSmk2NFh6YWFyV21BUHZJc195Wm5ydzQ0OXQzQWFTY1lPcUh2UlIzVW9laVJvVlRGZzVRdHUyQk53aW14OG1ySWhIdFNFNDQ9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmSlE5cEotTW1SdFExMXpmblR4d1FCR1hQRl9WMW5DbFZDSXFEaTY3T3lsV3RycXNzTkNfd1IwNTZiN2FWWDRqZ1hHZ0x2aEViOVZhdlpyUVpsSTBaNnhWVlZiQzloLTNGRzJ2QlF1a3NCVVo0QXZQZGVBb1pNUnZ2TEplNk5SMkJZeTlaNkJacG9MMVVLNV9VaWE4ZkpDTFdod3RZQTdWWUQ0SlBGUFNrYzhhX29pdXZ1RFN2a2FYTW5tNzJvb3dZV1M2MG04SUplM1g1eGF2SGxHMzBscXZvdVlidktMMWR5V2VDWUEtWjJiWEg0MkN0SEVQOGxmT3VycGZFOGljTjJQNnk1M2VYUHZGczl0YkppNjRYemFhcldtQVB2SXNfeVpucnc0NDl0M0FhU2NZT3FIdlJSM1VvZWlSb1ZURmc1UXR1MkJOd2lteDhtckloSHRTRTQ0PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=VZcBo6kKf%2fyze2ZcRDOrHPbyq10%3d
+#EXTINF:-1 group-title="IPTV" tvg-id="Channel U" tvg-chno="Channel U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21542781_ico.png?ts=1658288474",Channel U
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
-#EXTINF:-1 tvg-id="ChannelU" group-title="IPTV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21542781_ico.png?ts=1658288474",Channel U HD
-https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDUG94MkpnSUM1aE05RVctLTA1YS1CWFptcktxS2JZRHpab1pXcldlZHJNTUpDUXd1VklfSGk4QkxORU9YbExVaUxUOUV6TWRVR0c4M080YW1Pb2E4ZEZsU1NfdUgyZU5FSzk0SVprS3M2d0ZlYWFyVEVhN2dPS3ZoQzVkamdRLUloYnUxN2ZmdW52Q3NSZWp1MmJDODFHcW1UTzY3bUdFSjgwd2dtQ2V5bmVkcEs5dGdHdm9iVUN1TGN1QmhPNnZ3Wlgxam9BS2lSbG9LVVgwNVJmVHk4S0JKQ2VVbkpJYUdsTlEzLTVLdGJPc0JWdmh1dTVxcm5CaUlfaTJuczZkb0YtQS1DVGhaYlZvSXdLNk1CdUpNUmNnV25aWFBPV2Nmb3JfUkwteHpFeUtXRmhycFM1MGdqbXVrcWdJd19COGlWeFFLaF9iNmZlVjhMOTdnOF9zc2l4czYzLWpVZ0lFbjJVRU9DeUh6eUMmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MDY2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkNQb3gySmdJQzVoTTlFVy0tMDVhLUJYWm1yS3FLYllEelpvWldyV2Vkck1NSkNRd3VWSV9IaThCTE5FT1hsTFVpTFQ5RXpNZFVHRzgzTzRhbU9vYThkRmxTU191SDJlTkVLOTRJWmtLczZ3RmVhYXJURWE3Z09LdmhDNWRqZ1EtSWhidTE3ZmZ1bnZDc1JlanUyYkM4MUdxbVRPNjdtR0VKODB3Z21DZXluZWRwSzl0Z0d2b2JVQ3VMY3VCaE82dndaWDFqb0FLaVJsb0tVWDA1UmZUeThLQkpDZVVuSklhR2xOUTMtNUt0Yk9zQlZ2aHV1NXFybkJpSV9pMm5zNmRvRi1BLUNUaFpiVm9Jd0s2TUJ1Sk1SY2dXblpYUE9XY2Zvcl9STC14ekV5S1dGaHJwUzUwZ2ptdWtxZ0l3X0I4aVZ4UUtoX2I2ZmVWOEw5N2c4X3NzaXhzNjMtalVnSUVuMlVFT0N5SHp5QyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=gp%2bjEFaoqAe7mqZiQMaxKYksKCw%3d
+#EXTINF:-1 group-title="IPTV" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21609958_ico.png?ts=1658689410",Suria
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileI
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529373_ico.png?ts=1655402850" group-title="IPTV",Astro Awani HD
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
@@ -351,45 +351,60 @@ https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20103412_ico.png?ts=1659656310" group-title="IPTV",CINEMAX HD
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20103412_ico.png?ts=1659656310" group-title="IPTV",CINEMAX HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
-https://sange-astro.palat.workers.dev/603/default.mpd|Referer=I_Love_OnlyFans
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20103412_ico.png?ts=1659656310" group-title="IPTV",CINEMAX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5KVGtWTlFWaEVVazBzTVRreU1UVTBNak0xTWl4aGJtUnliMmxrTERCZmEyVnZhbXBzWVRZIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/35jn5utj
 EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20102452_ico.png?ts=1655457090" group-title="IPTV",HBO Asia
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20102452_ico.png?ts=1655457090" group-title="IPTV",HBO Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-https://sange-astro.palat.workers.dev/2304/default.mpd|Referer=I_Love_OnlyFans
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20102452_ico.png?ts=1655457090" group-title="IPTV",HBO Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVHpGRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/35jn5utj
 EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19956861_ico.png?ts=1655456496" group-title="IPTV",HBO Hits
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19956861_ico.png?ts=1655456496" group-title="IPTV",HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
-https://sange-astro.palat.workers.dev/5055/default.mpd|Referer=I_Love_OnlyFans
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19956861_ico.png?ts=1655456496" group-title="IPTV",HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBneFJGSk5MREU1TWpFMU5ESXpOVElzWVc1a2NtOXBaQ3d3WDJ0bGIycHFiR0UyIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/35jn5utj
 EXTINF:0 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22114841_ico.png?ts=1661513399" group-title="IPTV",HBO Family Asia
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-EXTINF:0 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22114841_ico.png?ts=1661513399" group-title="IPTV",HBO Family Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
-https://sange-astro.palat.workers.dev/5053/default.mpd|Referer=I_Love_OnlyFans
-
+#EXTINF:0 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22114841_ico.png?ts=1661513399" group-title="IPTV",HBO Family Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBaRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tinyurl.com/35jn5utj
-EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20382405_ico.png?ts=1655456567" group-title="IPTV",HBO Signature Asia
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20382405_ico.png?ts=1655456567" group-title="IPTV",HBO Signature Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDFNeFJGSk5MREU1TWpFMU5ESXpOVElzWVc1a2NtOXBaQ3d3WDJ0bGIycHFiR0UyIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/29098456_ico.png?ts=1700750261" group-title="IPTV",LIFETIME
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
@@ -496,6 +511,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21528780_ico.png?ts=1658211297" group-title="IPTV",Euro Sport
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21528780_ico.png?ts=1658211297" group-title="IPTV",UNIFI SPORTS 1
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -619,27 +638,6 @@ https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live2.m3u8
 
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU", PIALA DUNIA 1 U17
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU", PIALA DUNIA 2 U17
-https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
-
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU", PIALA DUNIA 3 U17
-https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU", PIALA DUNIA 4 U17
-https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU", PIALA DUNIA 5 U17
-http://103.166.27.2:8112/play/a016
-
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU", PIALA DUNIA 6 U17
-http://muka03.wanicelife.com:8880/6mmk190037/21266132/1722
-
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU", PIALA DUNIA 7 U17
-http://muka03.wanicelife.com:8880/6mmk190037/21266132/1721
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19510775_ico.png?ts=1654806232" group-title="IPTV",Al Quran Al Kareem 
@@ -731,7 +729,7 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/HGTV.m3u8
 https://mangga-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974578_ico.png?ts=1654806875" group-title="IPTV",FASHION TV
-https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957549_ico.png?ts=1655327788" group-title="IPTV",B ADVENTURE
 http://livestream.biznetvideo.net:80/biznet_adventure/smil:adventure.smil/chunklist_w1684912150_b5256000_slen.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
