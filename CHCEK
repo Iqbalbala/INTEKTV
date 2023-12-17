@@ -120,11 +120,14 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27418259_ico.png?ts=1689965679" group-title="IPTV",ANTRA TV
 https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497933_ico.png?ts=1654802059" group-title="IPTV",BERITA SATU
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497933_ico.png?ts=1702841906" group-title="IPTV",BTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20024070_ico.png?ts=1654802106" group-title="IPTV",BERITASATU WORLD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20024070_ico.png?ts=1702841954" group-title="IPTV",IDTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19741080_ico.png?ts=1654802160" group-title="IPTV",JAKARTA GLOBE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
 
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19993197_ico.png?ts=1654729324" group-title="IPTV",TANJUPINANG TV
 http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
