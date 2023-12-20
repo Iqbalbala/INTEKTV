@@ -59,7 +59,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19497983_ico.png?ts=1654728408" group-title="IPTV",TVOne
-http://xztv.hk3.20212021.tk.cdn.cloudflare.net/iptv/smttv.php?id=Tvone
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/tvone.m3u8
 http://103.166.27.2:8112/play/a01h/index.m3u8
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19185215_ico.png?ts=1654801697",KOMPAS TV
