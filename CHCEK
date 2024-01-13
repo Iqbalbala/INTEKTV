@@ -568,9 +568,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600262_ico.png?ts=1655148798" group-title="IPTV",BEIN SPORTS 1 TH
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600262_ico.png?ts=1655148798" group-title="IPTV",BEIN SPORTS 1 TH
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="BeIN Sport",BeIN Sports 1 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600262_ico.png?ts=1655148798" group-title="IPTV",BEIN SPORTS 1 TH
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -583,12 +588,12 @@ EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/196005
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1660770496" group-title="IPTV",BEIN SPORTS 2 TH
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1660770496" group-title="IPTV",BEIN SPORTS 2 AIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1660770496" group-title="IPTV",BEIN SPORTS 3 TH
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600510_ico.png?ts=1660770496" group-title="IPTV",BEIN SPORTS 3 AIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
