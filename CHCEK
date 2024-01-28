@@ -5,7 +5,7 @@ https://pbc.furrera.ps/palestinehd/index.m3u8
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/Live.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4#.m3u8
 
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1UdQ9sVlkj2CqlPyU0uX_DdXr9XQpyx6b/view?usp=drivesdk" group-title="IPTV",SCTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/20220424_041647_0000.png" group-title="IPTV",SCTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
