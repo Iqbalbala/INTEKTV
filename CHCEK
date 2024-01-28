@@ -697,16 +697,21 @@ https://h1.intechmedia.net/intech/ch13.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19505865_ico.png?ts=1654806055" group-title="IPTV",RODJA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
-https://h1.intechmedia.net/intech/ch26.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21935957_ico.png?ts=1660593524" group-title="IPTV",SHOWBIZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/23210539_ico.png?ts=1667195045" group-title="IPTV",INSAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
 https://h1.intechmedia.net/intech/ch1.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19505876_ico.png?ts=1654806114" group-title="IPTV",NAAJIYA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+https://h1.intechmedia.net/intech/ch7.m3u8
+
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19505876_ico.png?ts=1654806114" group-title="IPTV",SURAU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
-https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+https://h1.intechmedia.net/intech/ch7.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
@@ -719,14 +724,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 https://cempedak-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21935957_ico.png?ts=1660593524" group-title="IPTV",SHOWBIZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://210.210.155.37/x6bnqe/s/s35/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19732111_ico.png?ts=1698858041" group-title="IPTV",IMTV JAKARTA
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27460739_ico.png?ts=1690219238" group-title="IPTV",NAGASWARA DANGDUT
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21935957_ico.png?ts=1660593524" group-title="IPTV",JOWO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h231/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21000857_ico.png?ts=1655550770" group-title="IPTV",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
@@ -781,7 +790,8 @@ http://livestream.biznetvideo.net:80/biznet_adventure/smil:adventure.smil/chunkl
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20382500_ico.png?ts=1666789151" ,Asian Food Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19935741_ico.png?ts=1662015471" group-title="IPTV",DENS Food Channel
-http://210.210.155.37/x6bnqe/s/s50/live.m3u8|User-Agent=Lavf/56.15.102
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19935741_ico.png?ts=1662015471" group-title="IPTV",DENS Food Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
 
 #EXTM3U billed-msg=" INTEK IPTV "
