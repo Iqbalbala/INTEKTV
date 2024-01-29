@@ -704,13 +704,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
 https://h1.intechmedia.net/intech/ch1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19505876_ico.png?ts=1654806114" group-title="IPTV",NAAJIYA TV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19505876_ico.png?ts=1654806114" group-title="IPTV",SURAU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
-https://h1.intechmedia.net/intech/ch7.m3u8
-
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19505876_ico.png?ts=1654806114" group-title="IPTV",SURAU TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
-https://h1.intechmedia.net/intech/ch7.m3u8
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
