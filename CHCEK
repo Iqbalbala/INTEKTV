@@ -19,9 +19,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/indos.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/02.m3u8
 
-EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20530939_ico.png?ts=1660771026" group-title="IPTV",Moji
-https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/stream/mojitest.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/02.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/moji.png" group-title="IPTV",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+http://op-group1-swiftservehd-1.dens.tv/s/s41/index.m3u8?app_type=web&userid=lite&chname=moji
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
@@ -342,6 +343,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/kbsworld.png" group-title="IPTV",KBS WORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
