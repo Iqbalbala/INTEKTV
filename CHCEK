@@ -383,7 +383,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20102452_ico.png?ts=1655457090" group-title="IPTV",HBO Asia
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbo.png" group-title="IPTV",HBO Asia
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbo.png" group-title="IPTV",HBO Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVHpGRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -396,7 +396,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19956861_ico.png?ts=1655456496" group-title="IPTV",HBO Hits
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbohits.png" group-title="IPTV",HBO Hits
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbohits.png" group-title="IPTV",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBneFJGSk5MREU1TWpFMU5ESXpOVElzWVc1a2NtOXBaQ3d3WDJ0bGIycHFiR0UyIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -409,7 +409,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380
 EXTINF:0 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22114841_ico.png?ts=1661513399" group-title="IPTV",HBO Family Asia
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbofam.png" group-title="IPTV",HBO Family Asia
+EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbofam.png" group-title="IPTV",HBO Family Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBaRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -417,7 +417,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbosig.png" group-title="IPTV",HBO Signature Asia
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbosig.png" group-title="IPTV",HBO Signature Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDFNeFJGSk5MREU1TWpFMU5ESXpOVElzWVc1a2NtOXBaQ3d3WDJ0bGIycHFiR0UyIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
