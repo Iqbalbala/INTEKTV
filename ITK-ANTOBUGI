@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_PH.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/usEPG.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/ardanepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/mariepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/masimaepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/traxepg.xml,  https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone-pt.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_GB.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml, https://bit.ly/3itZsSm, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz, https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/USA/tv.com.channels.xml, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz" refresh="3600"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_PH.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/usEPG.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/ardanepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/mariepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/masimaepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/traxepg.xml,  https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone-pt.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_GB.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml, https://bit.ly/3itZsSm, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz, https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/USA/tv.com.channels.xml, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz" refresh="3600"
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28830163_ico.png?ts=1698903049" group-title="IPTV",INTEK - FREE PALESTINE
 https://pbc.furrera.ps/palestinehd/index.m3u8
@@ -24,9 +24,9 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/moj
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 https://1nut.cobak.workers.dev/play0x9.m3u8?id=moji
 
-EXTINF:-1 group-title="IPTV" tvg-id="ochannel.id" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/moji.png",Moji 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=moji
+#EXTINF:-1 group-title="IPTV" tvg-id="ochannel.id" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/moji.png",Moji 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
@@ -47,27 +47,46 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 http://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
-https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rcti.png" group-title="IPTV",RCTI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
 #EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rcti.png" group-title="IPTV",RCTI
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/gtv.png" group-title="IPTV",GTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/gtv.png" group-title="IPTV",GTV
-https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/mnctv.png" group-title="IPTV",MNC TV
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/mnctv.png" group-title="IPTV",MNC TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/mnctv.png" group-title="IPTV",MNCTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/inews.png" group-title="IPTV",iNews
-https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/inews.png" group-title="IPTV",iNews
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://1a-inews.rctiplus.id/inews-sdi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
@@ -305,7 +324,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/ 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/duniasinema.png" group-title="IPTV",Dunia Sinema HD 
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
 
 #EXTINF:-1, group-title="IPTV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/drmhebatmy.png",Drama Hebat Malaysia 
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9 
