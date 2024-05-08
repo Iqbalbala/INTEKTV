@@ -8,7 +8,7 @@ https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png" group-title="IPTV",SCTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/sctv.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8
 
