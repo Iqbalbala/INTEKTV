@@ -1,0 +1,244 @@
+#EXTM3U
+#EXTINF:0,INTEK Vista Indah
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/Live.m3u8
+#EXTINF:0,SCTV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Sctv.m3u8
+#EXTINF:0,INDOSIAR
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Indosiar.m3u8
+#EXTINF:0,MOJI
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Moji.m3u8
+#EXTINF:0,NET
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Net.m3u8
+#EXTINF:0,ANTV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Antv.m3u8
+#EXTINF:0,RTV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/RTV.m3u8
+#EXTINF:0,JTV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Jtv.m3u8
+#EXTINF:0,Nusantara TV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Nusantaratv.m3u8
+#EXTINF:0,tvOne
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Tvone.m3u8
+#EXTINF:0,KOMPAS TV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Kompas.m3u8
+#EXTINF:0,CNN Indonesia
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Cnnid.m3u8
+#EXTINF:0,CNBC Indonesia
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Cnbcid.m3u8
+#EXTINF:0,METRO TV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Metrotv.m3u8
+#EXTINF:0,BTV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/BTV.m3u8
+#EXTINF:0,ID TV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/IDTV.m3u8
+#EXTINF:0,BATAM TV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Batamtv.m3u8
+#EXTINF:0,RIAU TV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Riautv.m3u8
+#EXTINF:0,TVRI Nasional
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Tvri.m3u8
+#EXTINF:0,BANDUNG TV
+#EXTGRP:IPTV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:0,TV1 HD
+#EXTGRP:IPTV
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+#EXTINF:0,TV2 HD
+#EXTGRP:IPTV
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
+#EXTINF:0,TV 3
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/tv3my.m3u8
+#EXTINF:0,TV 6
+#EXTGRP:IPTV
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:0,TV 9
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/tv9my.m3u8
+#EXTINF:0,RTB ANEKA
+#EXTGRP:IPTV
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8?id=2
+#EXTINF:0,RTB SUKMAINDRA
+#EXTGRP:IPTV
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8?id=2
+#EXTINF:0,OKEY
+#EXTGRP:IPTV
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:0,Berita RTM
+#EXTGRP:IPTV
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF:0,Astro Awani HD
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Awani.m3u8
+#EXTINF:0,News Asia
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/CNA.m3u8
+#EXTINF:0,NHKWORLD
+#EXTGRP:IPTV
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/id/playlist.m3u8
+#EXTINF:0,Aniplus
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Aniplus.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:IPTV
+http://202.150.161.254:4000/play/a00a/index.m3u8
+#EXTINF:0,Nick Junior
+#EXTGRP:IPTV
+http://202.150.161.254:4000/play/a00b/index.m3u8
+#EXTINF:0,ZOOMOO
+#EXTGRP:IPTV
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,Dunia Sinema
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Duniasinema.m3u8
+#EXTINF:0,ROCK ACTION
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Rockaction.m3u8
+#EXTINF:0,ROCK ENTERTAIMENT
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Rockent.m3u8
+#EXTINF:0,THRILL
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Thrill.m3u8
+#EXTINF:0,CELESTIAL MOVIES
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Celestial.m3u8
+#EXTINF:0,CCM
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Ccm.m3u8
+#EXTINF:0,TVN
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/tvnid.m3u8
+#EXTINF:0,TVN Movies
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/tvnmovies.m3u8
+#EXTINF:0,KIX
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Kix.m3u8
+#EXTINF:0,Sony One
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/sone.m3u8
+#EXTINF:0,K Plus
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Kplus.m3u8
+#EXTINF:0,ARIRANG
+#EXTGRP:IPTV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0,KBS WORLD
+#EXTGRP:IPTV
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:0,CINEMA WORLD
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Cinemaworld.m3u8
+#EXTINF:0,MCE
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Mce.m3u8
+#EXTINF:0,Cinemax
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Cinemaxus.m3u8
+#EXTINF:0,RAKUTEN ACTION
+#EXTGRP:IPTV
+https://2d7cfb08307343bd98a8e403813df2f1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_RakutenActionMovies/playlist.m3u8
+#EXTINF:0,Hits
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Hits.m3u8
+#EXTINF:0,Hits Movie
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Hitsmovie.m3u8
+#EXTINF:0,DOYOU MOVIES
+#EXTGRP:IPTV
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&amp;token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&amp;logo=0&amp;expire=0&amp;did=c2d6f221fb67b0e8f4e820a300001601&amp;ver=Douyu_221090605&amp;pt=2&amp;st=0&amp;origin=tct&amp;mix=0&amp;isp=
+#EXTINF:0,TVRI SPORT
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Tvrisport.m3u8
+#EXTINF:0,Unifi 1
+#EXTGRP:IPTV
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:0,RTM SPORT
+#EXTGRP:IPTV
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:0,REDBULL TV
+#EXTGRP:IPTV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:0,SPOTV
+#EXTGRP:IPTV
+http://202.150.161.68/spotv1/index.m3u8
+#EXTINF:0,SPOTV 2
+#EXTGRP:IPTV
+http://202.150.161.68/spotv2/index.m3u8
+#EXTINF:0,ASTRO SUPER SPORT
+#EXTGRP:IPTV
+http://202.150.161.68/ASSP/index.m3u8
+#EXTINF:0,ASTRO SUPER SPORT 2
+#EXTGRP:IPTV
+http://202.150.161.68/ASSP2/index.m3u8
+#EXTINF:0,ASTRO SUPER SPORT 3
+#EXTGRP:IPTV
+http://202.150.161.68/ASSP3/index.m3u8
+#EXTINF:0,ASTRO SUPER SPORT 4
+#EXTGRP:IPTV
+http://202.150.161.68/ASSP4/index.m3u8
+#EXTINF:0,SONY SPORTS 1
+#EXTGRP:IPTV
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:0,SONY SPORTS 2
+#EXTGRP:IPTV
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:0,QURAN TV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Makkahtv.m3u8
+#EXTINF:0,SAUDI SUNNAH TV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Madinahtv.m3u8
+#EXTINF:0,RODJA TV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Rodja.m3u8
+#EXTINF:0,MTV Hits
+#EXTGRP:IPTV
+http://iptv.prosto.tv:7000/ch126/video.m3u8
+#EXTINF:0,Nagaswara Dangdut
+#EXTGRP:IPTV
+https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+#EXTINF:0,IMTV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Imtv.m3u8
+#EXTINF:0,Showbiz
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Showbiz.m3u8
+#EXTINF:0,THE KPOP
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Thekpop.m3u8
+#EXTINF:0,LOVE NATURE
+#EXTGRP:IPTV
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Animal_Planet.m3u8
+#EXTINF:0,HGTV
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/HGTV.m3u8
+#EXTINF:0,DENS FOOD CHANNEL
+#EXTGRP:IPTV
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Densfoodch.m3u8
