@@ -16,7 +16,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
 
-#EXTINF:-1 group-title="Trial Channel" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png", SCTV
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png", SCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=204&type=hls
