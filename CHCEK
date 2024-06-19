@@ -766,43 +766,29 @@ https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
 #KODIPROP:inputstream.adaptive.license_key=889750ca612844cfabc4073989befa3e:c188729c59e29bedafc1cbedaa107abb
 https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd
 
-
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SS 3 ðŸ‡®ðŸ‡©
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+http://45.41.213.34:70/TSN1/index.m3u8
 
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SS4 ðŸ‡®ðŸ‡©
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
+http://45.41.213.34:70/TSN2/index.m3u8
 
-
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SOCCER CH ðŸ‡®ðŸ‡©
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
+http://45.41.213.34:70/TSN3/index.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+http://45.41.213.34:70/TSN4/index.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+http://45.41.213.34:70/TSN5/index.m3u8
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", HTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 https://api.wintv.me/360/195/index.m3u8
-
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg",VTVCáº§nThÆ¡ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-http://171.238.181.52:18080/156.m3u8
-
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg",T-sports 
-http://allinonereborn.tech/allinone.php?id=57715
-
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg",Sony Six 
-http://allinonereborn.tech/allinone.php?id=56332
-
 
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="IPTV", Fifa+ 1
 https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
