@@ -736,18 +736,12 @@ https://tevi.my.id/Euroevent4.m3u8|referer=https://player.goupnow.net/
 #EXTVLCOPT:http-Referer=https://player.goupnow.net/
 https://tevi.my.id/Euroevent5.m3u8|referer=https://player.goupnow.net/
 
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TRT SPORT ðŸ‡¹ðŸ‡·
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68d756e8c6cc76d178859547b8f8016d:84f65dbdae77e35cfede6df28b68ab31
-https://switch-api.tvplus.com.tr/pl/176.235.2.71:80/izmottrrs.tvplus.com.tr/PLTV/88888888/224/3221229477/3221229477.mpd?rrsip=izmottrrs.tvplus.com.tr:443&zoneoffset=0&devkbps=190-2750&servicetype=1&limitflux=-1&limitdur=-1&tenantId=9001&accountinfo=NqBFibyCqiK9VZTj227v5L0yqmZ%2BgbmgPNtQmahQ3BVm93dgZuk6pmqqNsOk7xYR5jXlGTb4rB6ajwzNkgh9yWoOE1sF9WOHCctkfqlgUu680aE%2FkXF8BRSDJBMctj2quSR0uZb0KZ4GFAntvKi%2FyKxP5Y7OnDca7%2F8ZEPnhT02E%2BHpHwwb9AzQr7%2FtpY3bC%3A20230213214717%3AUTC%2C%2C%2C20230213214717%2Curn%3AHuawei%3AliveTV%3A001300000008479123%2C%2C-1%2C0%2C1%2C%2C%2C2%2C497%2C%2C%2C2%2C%2C0%2C%2C%2C%2C%2C2%2C1%2C100001988%2CEND&GuardEncType=2&from=31&validdev=5271,5273&hms_devid=5271&pbf=2_2_1_2226527801&vqe=3&it=H4sIAAAAAAAAAzXMsQrCMBCA4bfpeDRJPdshk1JwCULVVa6XawjEFtNa8O2lovv__UsmltPRotkPpCtsuNEVM_dItfe9UpqlRo3FLE83WVMwpRTH4Ca_sVt3uKsSjALcgTHFZdu1iYItv6V7PXrJFv-sk7xGFuvnAVaagULIEmiJ0wjnRO9rTr_kA6k2vr2ZAAAA&uid=u629xzy8LUaQOScZcrFCPg&srv=cGwtYW5rLXMwOS50dnBsdXMuY29tLnRy&sw_h1=_tFGF3I3g0BMplkaKdIcUw&srv2=cGwtYW5rLXMwNS50dnBsdXMuY29tLnRy&sw_h2=EByiBth6v4ad4ivGRBF_4Q&proxy=true
-
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", PPTV ðŸ‡¹ðŸ‡­
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", PPTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", BEIN SPORTS ðŸ‡«ðŸ‡·
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", BEIN SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3cf686dc4246f19bc4419c54da0f90bc":"b40f599266c8a262ccf4a384dadce08a","9d8b1b819cfdcff845625b86cc4968f3":"480b03fe4476bc187c6a9d43ba85b9db","6ca2f2c822444ff76d9570741dec7b2b":"9fc3d71ab30e8d33f09ee29e5e453608"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
