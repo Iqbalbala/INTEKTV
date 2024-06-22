@@ -798,6 +798,21 @@ https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
 #KODIPROP:inputstream.adaptive.license_key=889750ca612844cfabc4073989befa3e:c188729c59e29bedafc1cbedaa107abb
 https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd
 
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SONY SPORTS TEN 1 HD
+https://mhdtvweb.com/sonyliv/stream.m3u8?id=sony-ten-1-hd&e=.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SONY SPORTS TEN 2 HD
+https://mhdtvweb.com/sonyliv/stream.m3u8?id=sony-ten-2-hd&e=.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SONY SPORTS TEN 3 HD
+https://mhdtvweb.com/sonyliv/stream.m3u8?id=sony-ten-3-hd&e=.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SONY SPORTS TEN 4 HD
+https://mhdtvweb.com/sonyliv/stream.m3u8?id=sony-ten-4-hd&e=.m3u8
+
+#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SONY SPORTS TEN 5 HD
+https://mhdtvweb.com/sonyliv/stream.m3u8?id=sony-ten-5-hd&e=.m3u8
+
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 http://45.41.213.34:70/TSN1/index.m3u8
