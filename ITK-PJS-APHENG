@@ -744,11 +744,9 @@ EXTINF:-1 group-title="IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images
 https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/ukfhd_rte2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", EURO EVENT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/ukfhd_rte2/tracks-v1a1/mono.m3u8
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/ca_tsn2_hd/index.m3u8
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", EURO EVENT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/ukfhd_rte2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", EURO EVENT 3
