@@ -741,17 +741,15 @@ EXTINF:-1 group-title="IPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
-https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/ukfhd_rte2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", EURO EVENT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTVLCOPT:http-Referer=https://player.goupnow.net/
-https://tevi.my.id/Euroevent.m3u8|referer=https://player.goupnow.net/
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/ukfhd_rte2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", EURO EVENT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTVLCOPT:http-Referer=https://player.goupnow.net/
-https://tevi.my.id/Euroevent2.m3u8|referer=https://player.goupnow.net/
+https://rr4---sn-8pxuuxa-onon.applecdnstore.com/livetv/2024/ukfhd_rte2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", EURO EVENT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
@@ -798,38 +796,38 @@ https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
 #KODIPROP:inputstream.adaptive.license_key=889750ca612844cfabc4073989befa3e:c188729c59e29bedafc1cbedaa107abb
 https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd
 
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SONY SPORTS TEN 1 HD
+EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SONY SPORTS TEN 1 HD
 https://mhdtvweb.com/sonyliv/stream.m3u8?id=sony-ten-1-hd&e=.m3u8
 
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SONY SPORTS TEN 2 HD
+EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SONY SPORTS TEN 2 HD
 https://mhdtvweb.com/sonyliv/stream.m3u8?id=sony-ten-2-hd&e=.m3u8
 
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SONY SPORTS TEN 3 HD
+EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SONY SPORTS TEN 3 HD
 https://mhdtvweb.com/sonyliv/stream.m3u8?id=sony-ten-3-hd&e=.m3u8
 
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SONY SPORTS TEN 4 HD
+EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SONY SPORTS TEN 4 HD
 https://mhdtvweb.com/sonyliv/stream.m3u8?id=sony-ten-4-hd&e=.m3u8
 
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SONY SPORTS TEN 5 HD
+EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", SONY SPORTS TEN 5 HD
 https://mhdtvweb.com/sonyliv/stream.m3u8?id=sony-ten-5-hd&e=.m3u8
 
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 1
+EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 http://45.41.213.34:70/TSN1/index.m3u8
 
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 2
+EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 http://45.41.213.34:70/TSN2/index.m3u8
 
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 3
+EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 http://45.41.213.34:70/TSN3/index.m3u8
 
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 4
+EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 http://45.41.213.34:70/TSN4/index.m3u8
 
-#EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 5
+EXTINF:-1 group-title="IPTV" tvg-logo="https://i.imgur.com/iue27XI.jpg", TSN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 http://45.41.213.34:70/TSN5/index.m3u8
 
