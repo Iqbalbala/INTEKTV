@@ -686,10 +686,23 @@ https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-055/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
 https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-056/stream.mpd
 
-EXTINF:-1 group-title="IPTV" tvg-id="usanetworkeast.us" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/usa.png",USA Network 
+#EXTINF:-1 group-title="IPTV" tvg-id="playsports.be" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/ps1.png",PLAY SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
+https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-051/stream.mpd
+
+#EXTINF:-1 group-title="IPTV" tvg-id="playsports.be" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/ps2.png",PLAY SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
+https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-052/stream.mpd
+
+#EXTINF:-1 group-title="IPTV" tvg-id="playsports.be" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/ps3.png",PLAY SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
+https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-053/stream.mpd
 
 EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/truepre1.png" group-title="IPTV",True Premier Football 1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
