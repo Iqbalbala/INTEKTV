@@ -6,19 +6,16 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/Live.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4#.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png" group-title="IPTV",SCTV
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-http://op-group1-swiftservesd-1.dens.tv/s/s03/index.m3u8
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/indosiar.png" group-title="IPTV",INDOSIAR
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 group-title="IPTV" tvg-id="ochannel.id" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/moji.png",Moji 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/trans7.png",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w951314700_b744100_sleng.m3u8
