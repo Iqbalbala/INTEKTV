@@ -355,7 +355,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h239/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvn.png" group-title="IPTV",TVN Premium Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h215/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvnmovies.png" group-title="IPTV",TVN Movies Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
