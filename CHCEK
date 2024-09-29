@@ -705,9 +705,7 @@ https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live2.m3u8
 https://d1abp075u76pbq.cloudfront.net/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sunnahtv.png" group-title="IPTV",SAUDI SUNNAH TV
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -732,7 +730,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 https://d1abp075u76pbq.cloudfront.net/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/musikindo.png" group-title="IPTV",Musik Indonesia
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(1a609789-8ed7-fe39-431b-e91799907f55)/manifest.mpd
+https://cdn09jtedge.indihometv.com/joss/134/musikindo720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/popmusik.png" group-title="IPTV",POP Musik
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
