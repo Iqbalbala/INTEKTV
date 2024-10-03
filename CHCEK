@@ -632,35 +632,38 @@ http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/ou
 #EXTINF:-1 group-title="IPTV" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn1.png",DAZN 1 Direto
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=AppleCoreMedia
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd
 
 #EXTINF:-1 group-title="IPTV" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn2.png",DAZN 2 Direto
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=AppleCoreMedia
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd
 
 #EXTINF:-1 group-title="IPTV" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/dazn3.png",DAZN 3 Direto
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#EXTVLCOPT:http-user-agent=AppleCoreMedia
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd
 
 #EXTINF:-1 group-title="IPTV" tvg-id="playsports.be" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/ps1.png",PLAY SPORTS 1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium451/index.m3u8|Origin=https://claplivehdplay.ru
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
 
 #EXTINF:-1 group-title="IPTV" tvg-id="playsports.be" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/ps2.png",PLAY SPORTS 2
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium550/index.m3u8|Origin=https://claplivehdplay.ru
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
 
 #EXTINF:-1 group-title="IPTV" tvg-id="playsports.be" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/ps3.png",PLAY SPORTS 3
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium53/index.m3u8|Origin=https://claplivehdplay.ru
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
 
 EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/truepre1.png" group-title="IPTV",True Premier Football 1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
