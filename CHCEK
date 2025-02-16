@@ -159,6 +159,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tv3my.png" group-title="IPTV",TV 3
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tv6my.png" group-title="IPTV",TV6
